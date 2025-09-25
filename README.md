@@ -36,7 +36,7 @@ A clean and intuitive web app to Sgpa calculate.
 **🎯 Calculator**  
 A clean and intuitive web page for calculator.
 
-🔗 [Live App](https://rishi7390.github.io/Projects/Calculator.html) | 📦 [GitHub Repo](https://github.com/Rishi7390/Projects/blob/main/Calculator.html)
+🔗 [Live App](https://rishi7390.github.io/Projects/calculator.html) | 📦 [GitHub Repo](https://github.com/Rishi7390/Projects/blob/main/calculator.html)
 
 ---
 
